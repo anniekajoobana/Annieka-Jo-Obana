@@ -2,6 +2,7 @@
 MOOD JOURNAL
 
 Developer: Annieka Jo A. Obana
+
 Section: BSINTE 2A
 
 ABOUT THE PROJECT: This application is designed to help users track their daily moods and express their feelings through journaling.
